@@ -1,0 +1,13 @@
+C:\Users\Trw0q\Desktop\PerBod\PerBod\bin\Debug\PerBod.exe.config
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.vbprojResolveAssemblyReference.cache
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.Form1.resources
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.Resources.resources
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.vbproj.GenerateResource.Cache
+C:\Users\Trw0q\Desktop\PerBod\PerBod\bin\Debug\PerBod.exe
+C:\Users\Trw0q\Desktop\PerBod\PerBod\bin\Debug\PerBod.pdb
+C:\Users\Trw0q\Desktop\PerBod\PerBod\bin\Debug\PerBod.xml
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.exe
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.xml
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.pdb
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.Form2.resources
+C:\Users\Trw0q\Desktop\PerBod\PerBod\obj\Debug\PerBod.help.resources
